@@ -22,7 +22,7 @@ I’m a **Cloud Security Operations Lead** based in **Burnaby, BC, Canada**, wit
 | 🛡️ **SIEM / SOAR** | Microsoft Sentinel · Microsoft Defender XDR |
 | 💻 **Languages** | KQL · PowerShell · Node.js |
 | 🌐 **APIs** | Microsoft Graph API · Azure REST API |
-| 📍 **Location** | Burnaby, BC, Canada |
+| 📍 **Location** | BC, Canada |
 
 ---
 
