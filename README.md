@@ -4,7 +4,7 @@
 
 **☁️ Cloud Security Operations Lead**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritpal-matharu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritpalsmatharu/)
 &nbsp;
 ![Location](https://img.shields.io/badge/Burnaby%2C%20BC-Canada-red?style=for-the-badge&logo=googlemaps&logoColor=white)
 
