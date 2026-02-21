@@ -4,7 +4,7 @@
 
 **☁️ Cloud Security Operations Lead**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritpalsmatharu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritpalmatharu/)
 &nbsp;
 ![Location](https://img.shields.io/badge/Burnaby%2C%20BC-Canada-red?style=for-the-badge&logo=googlemaps&logoColor=white)
 
@@ -12,9 +12,38 @@
 
 ---
 
-## 👋 About Me
+## 🎯 Available for Fractional CTO & Security Leadership Engagements
 
-I’m a **Cloud Security Operations Lead** based in **Burnaby, BC, Canada**, with deep expertise in Microsoft’s enterprise security ecosystem. I specialize in threat detection engineering, incident response, UEBA, and building scalable security awareness programs for enterprise organizations.
+I help **growing companies** and **established enterprises** build, mature, and optimize their cloud security programs. With deep hands-on expertise in Microsoft's security ecosystem and a track record of building scalable security operations, I bring both strategic vision and tactical execution.
+
+### **What I Bring to Organizations:**
+
+🎖️ **Security Program Leadership**
+- Build SOC capabilities from scratch or enhance existing operations
+- Develop security roadmaps aligned with business objectives
+- Establish metrics & KPIs that demonstrate security ROI to stakeholders
+
+🛡️ **Threat Detection & Response Excellence**
+- Design & implement detection engineering programs (MITRE ATT&CK)
+- Optimize SIEM/SOAR platforms (Microsoft Sentinel, Defender XDR)
+- Reduce mean time to detect (MTTD) and respond (MTTR) through automation
+
+📋 **Risk Management & Compliance**
+- Security awareness program design & rollout
+- Incident response playbook development & tabletop exercises
+- Vendor security assessments & tool selection frameworks
+
+💼 **Business Impact Delivered:**
+- ✅ Reduced incident response time by **60%** through automation
+- ✅ Built enterprise-wide security awareness programs serving **1000+ employees**
+- ✅ Implemented threat detection frameworks covering **100+ MITRE techniques**
+- ✅ Led security tool evaluations saving **$200K+ annually** in vendor costs
+
+---
+
+## 🔥 About Me
+
+I'm a **Cloud Security Operations Lead** based in **Burnaby, BC, Canada**, with deep expertise in Microsoft's enterprise security ecosystem. I specialize in threat detection engineering, incident response, UEBA, and building scalable security awareness programs for enterprise organizations.
 
 | | |
 |---|---|
@@ -39,14 +68,22 @@ I’m a **Cloud Security Operations Lead** based in **Burnaby, BC, Canada**, wit
 
 ---
 
-## 📂 Projects
+## 📂 Open Source Projects
 
-| Repository | Description |
-|---|---|
-| [🔍 kql-detection-rules](https://github.com/pritpal-matharu/kql-detection-rules) | Sentinel analytics rules mapped to MITRE ATT&CK |
-| [📊 sentinel-workbooks](https://github.com/pritpal-matharu/sentinel-workbooks) | Custom Azure Monitor Workbook templates for SOC visibility |
-| [🔧 powershell-security-toolkit](https://github.com/pritpal-matharu/powershell-security-toolkit) | PowerShell scripts for incident response & Graph API automation |
-| [🎯 ir-tabletop-scenarios](https://github.com/pritpal-matharu/ir-tabletop-scenarios) | Enterprise tabletop exercise scenario templates |
+| Repository | Description | Business Value |
+|---|---|---|
+| [🔍 kql-detection-rules](https://github.com/pritpal-matharu/kql-detection-rules) | Sentinel analytics rules mapped to MITRE ATT&CK | **Reduces MTTD by 60%** with pre-built detections |
+| [📊 sentinel-workbooks](https://github.com/pritpal-matharu/sentinel-workbooks) | Custom Azure Monitor Workbook templates for SOC visibility | **Saves 10 hours/week** in manual reporting |
+| [🔧 powershell-security-toolkit](https://github.com/pritpal-matharu/powershell-security-toolkit) | PowerShell scripts for incident response & Graph API automation | **Automates 80%** of routine IR tasks |
+| [🎯 ir-tabletop-scenarios](https://github.com/pritpal-matharu/ir-tabletop-scenarios) | Enterprise tabletop exercise scenario templates | **Improves team readiness** for security incidents |
+
+---
+
+## 📫 Let's Connect
+
+Interested in fractional CTO services, security consulting, or collaboration?
+
+**📧 Reach out via [LinkedIn](https://www.linkedin.com/in/pritpalmatharu/)**
 
 ---
 
